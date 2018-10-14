@@ -1,5 +1,5 @@
 import java.util.*;
-class a
+public class positive
 {
 public static void main(String args[])
 {
